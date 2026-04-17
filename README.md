@@ -1,3 +1,11 @@
+# PCB Design
+
+<img width="559" height="633" alt="image" src="https://github.com/user-attachments/assets/64dc467b-8703-41a9-a4d8-bcf424c18249" />
+
+# Case Design
+
+<img width="1191" height="690" alt="image" src="https://github.com/user-attachments/assets/8e54510b-2540-4599-8d92-5e13ac198888" />
+
 # XIAO Macropad — KMK Firmware
 ## Seeeduino XIAO · 6 Keys · EC11E Rotary Encoder · SSD1306 128x32 OLED
 
