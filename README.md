@@ -1,6 +1,6 @@
 # PCB Design
 
-<img width="559" height="633" alt="image" src="https://github.com/user-attachments/assets/64dc467b-8703-41a9-a4d8-bcf424c18249" />
+<img width="480" height="569" alt="image" src="https://github.com/user-attachments/assets/b957fed8-a889-4051-8111-81fc14af5adc" />
 
 # Case Design
 
